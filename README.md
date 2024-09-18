@@ -73,7 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-### Customization:
-
-1. **Replace** `https://github.com/NightfallSecDev/dork-searcher.git` with the actual URL of your GitHub repository.
-2. **Replace** `[@NightfallSecDev](https://github.com/NightfallSecDev)` with your name and GitHub profile link.
